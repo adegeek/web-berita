@@ -1,0 +1,1 @@
+ini merupakan file untuk belajar GIT, semoga berhasil  
